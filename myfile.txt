@@ -1,4 +1,5 @@
 Even Monkey can learn Git commands
 Add: makes change and register in Index
 Commit:singe up Index status
+Pull: taking away from remote repository
 
