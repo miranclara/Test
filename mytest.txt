@@ -1,3 +1,3 @@
 Even monkey can understand "git" commands
 Add Registering change in Index
-
+Commit Index status registration
